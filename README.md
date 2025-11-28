@@ -13,17 +13,29 @@ It was built to demonstrate practical experience with workflows similar to those
 
 ## 📁 Project Structure
 retail-analytics-fraud-exceptions/
+
 ├── data/
+
 │ ├── raw/ # Original datasets
+
 │ └── processed/ # Cleaned & transformed datasets
+
 ├── notebooks/ # Jupyter notebooks with analysis
+
 ├── scripts/
+
 │ ├── sql/
+
 │ └── python/
+
 ├── dashboards/ # Power BI / Excel dashboards
+
 ├── reports/ # Final reports & insights
-├── docs/ # Documentation, methodology
+
+├── docs/ # Documentation, 
+
 ├── assets/ # Images used in dashboards/reports
+
 └── README.md
 
 
