@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("../data/raw/online_retail_II(Year 2010-2011).csv")
+df = pd.read_csv("../data/raw/online_retail_II.csv")
 
 # Basic cleaning
 df = df.drop_duplicates()
